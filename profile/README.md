@@ -1,5 +1,5 @@
 # Organisation
-The repository provided here belongs to the University of Antwerp, Belgium and imec-Visionlab.
+The repository provided here belongs to the University of Antwerp and imec-Visionlab.
 
 
 
